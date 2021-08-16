@@ -11,7 +11,7 @@ Use `Node.js`, `Express` and `Knex` to build an API that provides register, logi
 Your instructor should have communicated which method to use for this project during the Guided Project and in your cohort's Slack channel. If you are still unsure, reach out to Lambda Staff.
 
 ### Task 2: Minimum Viable Product
-
+test
 #### 2A - Database Access Functions
 
 Write the following user access functions inside `api/users/users-model.js`:
